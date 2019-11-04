@@ -1,0 +1,41 @@
+body {
+    margin: 0;  
+    background-color: #EAEBED; 
+}
+
+.container {
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.serlokas {
+    float: left;
+}
+
+h1 {
+    font-size: 50px;
+    color: #323F4A;
+}
+
+.button {
+    display: center;
+    width: 115px;
+    background-color:#67708C;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h6 {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans";
+    color: #B1B2B6;
+}
+
+p {
+    color: #717277;
+}
